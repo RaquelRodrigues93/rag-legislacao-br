@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+
+# Gerados localmente (o chunks.jsonl processado é versionado).
+data/raw/
+data/index/
+eval/results/latest.json
+eval/results/ci*.json
