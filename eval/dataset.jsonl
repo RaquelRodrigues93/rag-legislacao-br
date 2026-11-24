@@ -1,0 +1,50 @@
+{"id": "lgpd-01", "question": "O que a lei considera dado pessoal sensível?", "relevant": ["lgpd-art-5", "lgpd-art-11"]}
+{"id": "lgpd-02", "question": "Em quais situações uma empresa pode tratar meus dados pessoais?", "relevant": ["lgpd-art-7"]}
+{"id": "lgpd-03", "question": "Quais são as bases legais para o tratamento de dados pessoais?", "relevant": ["lgpd-art-7"]}
+{"id": "lgpd-04", "question": "O consentimento para uso dos meus dados precisa ser por escrito?", "relevant": ["lgpd-art-8"]}
+{"id": "lgpd-05", "question": "Posso revogar o consentimento que dei a uma empresa?", "relevant": ["lgpd-art-8", "lgpd-art-18"]}
+{"id": "lgpd-06", "question": "Quando a empresa pode usar meus dados com base no legítimo interesse?", "relevant": ["lgpd-art-10"]}
+{"id": "lgpd-07", "question": "Quais direitos eu tenho sobre os meus dados pessoais?", "relevant": ["lgpd-art-18"]}
+{"id": "lgpd-08", "question": "Posso pedir para uma empresa apagar meus dados?", "relevant": ["lgpd-art-18", "lgpd-art-16"]}
+{"id": "lgpd-09", "question": "Posso pedir revisão de uma decisão tomada automaticamente por um algoritmo?", "relevant": ["lgpd-art-20"]}
+{"id": "lgpd-10", "question": "Como deve ser feito o tratamento de dados de crianças?", "relevant": ["lgpd-art-14"]}
+{"id": "lgpd-11", "question": "Quais são os princípios que devem ser seguidos no tratamento de dados?", "relevant": ["lgpd-art-6"]}
+{"id": "lgpd-12", "question": "A LGPD se aplica a dados usados para fins jornalísticos?", "relevant": ["lgpd-art-4"]}
+{"id": "lgpd-13", "question": "A lei de proteção de dados vale para empresas de fora do Brasil?", "relevant": ["lgpd-art-3"]}
+{"id": "lgpd-14", "question": "O que é o encarregado de dados, também chamado de DPO?", "relevant": ["lgpd-art-5", "lgpd-art-41"]}
+{"id": "lgpd-15", "question": "O que a empresa deve fazer quando acontece um vazamento de dados?", "relevant": ["lgpd-art-48"]}
+{"id": "lgpd-16", "question": "Qual o valor máximo da multa por descumprir a LGPD?", "relevant": ["lgpd-art-52"]}
+{"id": "lgpd-17", "question": "Dados anonimizados ainda são considerados dados pessoais?", "relevant": ["lgpd-art-12"]}
+{"id": "lgpd-18", "question": "Quando é permitido enviar dados pessoais para outro país?", "relevant": ["lgpd-art-33"]}
+{"id": "lgpd-19", "question": "O que é o relatório de impacto à proteção de dados?", "relevant": ["lgpd-art-5", "lgpd-art-38"]}
+{"id": "lgpd-20", "question": "Quem paga pelos danos causados por uso irregular de dados pessoais?", "relevant": ["lgpd-art-42"]}
+{"id": "lgpd-21", "question": "Quais medidas de segurança as empresas precisam adotar para proteger dados?", "relevant": ["lgpd-art-46"]}
+{"id": "lgpd-22", "question": "O que é a ANPD?", "relevant": ["lgpd-art-55-A", "lgpd-art-55-J"]}
+{"id": "lgpd-23", "question": "Quando termina o tratamento dos dados pessoais?", "relevant": ["lgpd-art-15"]}
+{"id": "lgpd-24", "question": "Em que casos dados de saúde podem ser usados sem o meu consentimento?", "relevant": ["lgpd-art-11"]}
+{"id": "cdc-01", "question": "Comprei um produto pela internet e me arrependi. Posso devolver?", "relevant": ["cdc-art-49"]}
+{"id": "cdc-02", "question": "Qual o prazo para desistir de uma compra feita fora da loja?", "relevant": ["cdc-art-49"]}
+{"id": "cdc-03", "question": "Quem é considerado consumidor pela lei?", "relevant": ["cdc-art-2"]}
+{"id": "cdc-04", "question": "Quem é considerado fornecedor?", "relevant": ["cdc-art-3"]}
+{"id": "cdc-05", "question": "Quais são os direitos básicos do consumidor?", "relevant": ["cdc-art-6"]}
+{"id": "cdc-06", "question": "Meu produto veio com defeito e a loja não consertou em 30 dias. O que posso exigir?", "relevant": ["cdc-art-18"]}
+{"id": "cdc-07", "question": "Qual o prazo para reclamar de um defeito aparente em um produto durável?", "relevant": ["cdc-art-26"]}
+{"id": "cdc-08", "question": "Qual o prazo para pedir indenização por um acidente causado por produto defeituoso?", "relevant": ["cdc-art-27"]}
+{"id": "cdc-09", "question": "O fabricante responde pelos danos de um produto defeituoso mesmo sem ter culpa?", "relevant": ["cdc-art-12"]}
+{"id": "cdc-10", "question": "A loja é obrigada a cumprir o preço que anunciou na propaganda?", "relevant": ["cdc-art-30", "cdc-art-35"]}
+{"id": "cdc-11", "question": "O que é publicidade enganosa?", "relevant": ["cdc-art-37"]}
+{"id": "cdc-12", "question": "Venda casada é proibida?", "relevant": ["cdc-art-39"]}
+{"id": "cdc-13", "question": "Fui cobrado por algo que não devia. Tenho direito a receber o valor em dobro?", "relevant": ["cdc-art-42"]}
+{"id": "cdc-14", "question": "Por quanto tempo meu nome pode ficar negativado?", "relevant": ["cdc-art-43"]}
+{"id": "cdc-15", "question": "Quais cláusulas de contrato são consideradas abusivas?", "relevant": ["cdc-art-51"]}
+{"id": "cdc-16", "question": "Qual o limite da multa por atraso no pagamento de um financiamento?", "relevant": ["cdc-art-52"]}
+{"id": "cdc-17", "question": "O que é contrato de adesão?", "relevant": ["cdc-art-54"]}
+{"id": "cdc-18", "question": "O que é superendividamento?", "relevant": ["cdc-art-54-A"]}
+{"id": "cdc-19", "question": "Uma empresa pode me enviar um produto que eu não pedi e depois cobrar?", "relevant": ["cdc-art-39"]}
+{"id": "cdc-20", "question": "A empresa responde por danos causados por falha na prestação de um serviço?", "relevant": ["cdc-art-14"]}
+{"id": "cdc-21", "question": "O juiz pode inverter o ônus da prova a favor do consumidor?", "relevant": ["cdc-art-6"]}
+{"id": "cdc-22", "question": "O cobrador pode me ameaçar ou me constranger para eu pagar uma dívida?", "relevant": ["cdc-art-42", "cdc-art-71"]}
+{"id": "cdc-23", "question": "A garantia oferecida pela loja substitui a garantia prevista em lei?", "relevant": ["cdc-art-50"]}
+{"id": "oos-01", "question": "Qual a pena para o crime de homicídio?", "relevant": []}
+{"id": "oos-02", "question": "Quantos dias de férias por ano tem um trabalhador com carteira assinada?", "relevant": []}
+{"id": "oos-03", "question": "Qual o prazo para entregar a declaração do imposto de renda?", "relevant": []}

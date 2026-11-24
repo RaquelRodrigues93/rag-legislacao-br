@@ -1,0 +1,402 @@
+{
+  "retrieval": {
+    "n_questions": 47,
+    "modes": {
+      "bm25": {
+        "hit@1": 0.404,
+        "recall@1": 0.383,
+        "hit@3": 0.596,
+        "recall@3": 0.543,
+        "hit@6": 0.702,
+        "recall@6": 0.66,
+        "mrr": 0.524
+      },
+      "dense": {
+        "hit@1": 0.553,
+        "recall@1": 0.5,
+        "hit@3": 0.766,
+        "recall@3": 0.691,
+        "hit@6": 0.851,
+        "recall@6": 0.787,
+        "mrr": 0.683
+      },
+      "hybrid": {
+        "hit@1": 0.489,
+        "recall@1": 0.468,
+        "hit@3": 0.745,
+        "recall@3": 0.691,
+        "hit@6": 0.809,
+        "recall@6": 0.766,
+        "mrr": 0.617
+      }
+    },
+    "misses": {
+      "bm25": [
+        {
+          "id": "lgpd-02",
+          "question": "Em quais situações uma empresa pode tratar meus dados pessoais?",
+          "got": [
+            "lgpd-art-55-J",
+            "lgpd-art-24",
+            "lgpd-art-10",
+            "lgpd-art-46",
+            "lgpd-art-44",
+            "lgpd-art-61"
+          ]
+        },
+        {
+          "id": "lgpd-03",
+          "question": "Quais são as bases legais para o tratamento de dados pessoais?",
+          "got": [
+            "lgpd-art-5",
+            "lgpd-art-50",
+            "lgpd-art-23",
+            "lgpd-art-44",
+            "lgpd-art-33",
+            "lgpd-art-20"
+          ]
+        },
+        {
+          "id": "lgpd-08",
+          "question": "Posso pedir para uma empresa apagar meus dados?",
+          "got": [
+            "lgpd-art-24",
+            "lgpd-art-61",
+            "lgpd-art-55-J",
+            "lgpd-art-52",
+            "lgpd-art-55-L",
+            "cdc-art-22"
+          ]
+        },
+        {
+          "id": "lgpd-11",
+          "question": "Quais são os princípios que devem ser seguidos no tratamento de dados?",
+          "got": [
+            "lgpd-art-49",
+            "lgpd-art-1",
+            "lgpd-art-46",
+            "lgpd-art-55-J",
+            "lgpd-art-37",
+            "lgpd-art-9"
+          ]
+        },
+        {
+          "id": "lgpd-13",
+          "question": "A lei de proteção de dados vale para empresas de fora do Brasil?",
+          "got": [
+            "lgpd-art-61",
+            "lgpd-art-24",
+            "cdc-art-49",
+            "lgpd-art-55-J",
+            "lgpd-art-64",
+            "lgpd-art-4"
+          ]
+        },
+        {
+          "id": "lgpd-15",
+          "question": "O que a empresa deve fazer quando acontece um vazamento de dados?",
+          "got": [
+            "lgpd-art-24",
+            "lgpd-art-55-J",
+            "lgpd-art-31",
+            "cdc-art-67",
+            "cdc-art-68",
+            "lgpd-art-61"
+          ]
+        },
+        {
+          "id": "lgpd-18",
+          "question": "Quando é permitido enviar dados pessoais para outro país?",
+          "got": [
+            "lgpd-art-31",
+            "lgpd-art-34",
+            "lgpd-art-4",
+            "lgpd-art-3",
+            "lgpd-art-5",
+            "lgpd-art-14"
+          ]
+        },
+        {
+          "id": "lgpd-23",
+          "question": "Quando termina o tratamento dos dados pessoais?",
+          "got": [
+            "lgpd-art-43",
+            "lgpd-art-10",
+            "lgpd-art-16",
+            "lgpd-art-6",
+            "lgpd-art-5",
+            "lgpd-art-14"
+          ]
+        },
+        {
+          "id": "cdc-01",
+          "question": "Comprei um produto pela internet e me arrependi. Posso devolver?",
+          "got": [
+            "lgpd-art-60",
+            "lgpd-art-58-A",
+            "lgpd-art-14",
+            "cdc-art-58",
+            "cdc-art-18",
+            "cdc-art-12"
+          ]
+        },
+        {
+          "id": "cdc-03",
+          "question": "Quem é considerado consumidor pela lei?",
+          "got": [
+            "cdc-art-8",
+            "cdc-art-14",
+            "lgpd-art-12",
+            "cdc-art-12",
+            "cdc-art-43",
+            "cdc-art-6"
+          ]
+        },
+        {
+          "id": "cdc-04",
+          "question": "Quem é considerado fornecedor?",
+          "got": [
+            "cdc-art-8",
+            "cdc-art-14",
+            "lgpd-art-12",
+            "cdc-art-43",
+            "lgpd-art-46",
+            "cdc-art-54-F"
+          ]
+        },
+        {
+          "id": "cdc-10",
+          "question": "A loja é obrigada a cumprir o preço que anunciou na propaganda?",
+          "got": [
+            "cdc-art-107",
+            "cdc-art-66",
+            "cdc-art-41",
+            "cdc-art-31",
+            "lgpd-art-23",
+            "cdc-art-18"
+          ]
+        },
+        {
+          "id": "cdc-12",
+          "question": "Venda casada é proibida?",
+          "got": [
+            "cdc-art-33",
+            "cdc-art-75",
+            "lgpd-art-55-L",
+            "cdc-art-37",
+            "cdc-art-102",
+            "cdc-art-54-B"
+          ]
+        },
+        {
+          "id": "cdc-14",
+          "question": "Por quanto tempo meu nome pode ficar negativado?",
+          "got": [
+            "lgpd-art-65",
+            "lgpd-art-40",
+            "cdc-art-32",
+            "cdc-art-26",
+            "cdc-art-4",
+            "cdc-art-42-A"
+          ]
+        }
+      ],
+      "dense": [
+        {
+          "id": "lgpd-02",
+          "question": "Em quais situações uma empresa pode tratar meus dados pessoais?",
+          "got": [
+            "lgpd-art-9",
+            "lgpd-art-24",
+            "lgpd-art-11",
+            "lgpd-art-29",
+            "lgpd-art-18",
+            "lgpd-art-16"
+          ]
+        },
+        {
+          "id": "lgpd-03",
+          "question": "Quais são as bases legais para o tratamento de dados pessoais?",
+          "got": [
+            "lgpd-art-2",
+            "lgpd-art-1",
+            "lgpd-art-49",
+            "lgpd-art-47",
+            "lgpd-art-10",
+            "lgpd-art-25"
+          ]
+        },
+        {
+          "id": "lgpd-07",
+          "question": "Quais direitos eu tenho sobre os meus dados pessoais?",
+          "got": [
+            "lgpd-art-2",
+            "lgpd-art-17",
+            "lgpd-art-1",
+            "lgpd-art-21",
+            "lgpd-art-22",
+            "lgpd-art-58-B"
+          ]
+        },
+        {
+          "id": "lgpd-13",
+          "question": "A lei de proteção de dados vale para empresas de fora do Brasil?",
+          "got": [
+            "lgpd-art-34",
+            "lgpd-art-12",
+            "lgpd-art-33",
+            "lgpd-art-61",
+            "lgpd-art-24",
+            "lgpd-art-26"
+          ]
+        },
+        {
+          "id": "cdc-12",
+          "question": "Venda casada é proibida?",
+          "got": [
+            "cdc-art-54-C",
+            "cdc-art-33",
+            "cdc-art-59",
+            "cdc-art-46",
+            "cdc-art-48",
+            "cdc-art-54-A"
+          ]
+        },
+        {
+          "id": "cdc-19",
+          "question": "Uma empresa pode me enviar um produto que eu não pedi e depois cobrar?",
+          "got": [
+            "cdc-art-54-G",
+            "cdc-art-54-F",
+            "cdc-art-10",
+            "cdc-art-42",
+            "cdc-art-40",
+            "cdc-art-54-C"
+          ]
+        },
+        {
+          "id": "cdc-21",
+          "question": "O juiz pode inverter o ônus da prova a favor do consumidor?",
+          "got": [
+            "cdc-art-38",
+            "cdc-art-84",
+            "lgpd-art-42",
+            "cdc-art-103",
+            "cdc-art-51",
+            "cdc-art-79"
+          ]
+        }
+      ],
+      "hybrid": [
+        {
+          "id": "lgpd-02",
+          "question": "Em quais situações uma empresa pode tratar meus dados pessoais?",
+          "got": [
+            "lgpd-art-24",
+            "lgpd-art-10",
+            "lgpd-art-9",
+            "lgpd-art-18",
+            "lgpd-art-6",
+            "lgpd-art-46"
+          ]
+        },
+        {
+          "id": "lgpd-03",
+          "question": "Quais são as bases legais para o tratamento de dados pessoais?",
+          "got": [
+            "lgpd-art-1",
+            "lgpd-art-10",
+            "lgpd-art-13",
+            "lgpd-art-5",
+            "lgpd-art-26",
+            "lgpd-art-6"
+          ]
+        },
+        {
+          "id": "lgpd-13",
+          "question": "A lei de proteção de dados vale para empresas de fora do Brasil?",
+          "got": [
+            "lgpd-art-61",
+            "lgpd-art-24",
+            "lgpd-art-34",
+            "lgpd-art-58-A",
+            "lgpd-art-55-J",
+            "lgpd-art-4"
+          ]
+        },
+        {
+          "id": "lgpd-15",
+          "question": "O que a empresa deve fazer quando acontece um vazamento de dados?",
+          "got": [
+            "lgpd-art-52",
+            "lgpd-art-26",
+            "lgpd-art-14",
+            "lgpd-art-55-J",
+            "lgpd-art-31",
+            "lgpd-art-18"
+          ]
+        },
+        {
+          "id": "cdc-04",
+          "question": "Quem é considerado fornecedor?",
+          "got": [
+            "cdc-art-8",
+            "cdc-art-14",
+            "cdc-art-51",
+            "cdc-art-54-F",
+            "cdc-art-34",
+            "cdc-art-19"
+          ]
+        },
+        {
+          "id": "cdc-10",
+          "question": "A loja é obrigada a cumprir o preço que anunciou na propaganda?",
+          "got": [
+            "cdc-art-31",
+            "cdc-art-52",
+            "cdc-art-37",
+            "cdc-art-19",
+            "cdc-art-18",
+            "cdc-art-41"
+          ]
+        },
+        {
+          "id": "cdc-12",
+          "question": "Venda casada é proibida?",
+          "got": [
+            "cdc-art-33",
+            "cdc-art-54-C",
+            "cdc-art-75",
+            "cdc-art-54-B",
+            "cdc-art-53",
+            "lgpd-art-55-L"
+          ]
+        },
+        {
+          "id": "cdc-14",
+          "question": "Por quanto tempo meu nome pode ficar negativado?",
+          "got": [
+            "cdc-art-26",
+            "cdc-art-42-A",
+            "lgpd-art-65",
+            "lgpd-art-12",
+            "lgpd-art-7",
+            "cdc-art-54-B"
+          ]
+        },
+        {
+          "id": "cdc-21",
+          "question": "O juiz pode inverter o ônus da prova a favor do consumidor?",
+          "got": [
+            "cdc-art-38",
+            "lgpd-art-42",
+            "cdc-art-84",
+            "cdc-art-51",
+            "cdc-art-103",
+            "cdc-art-79"
+          ]
+        }
+      ]
+    }
+  }
+}
